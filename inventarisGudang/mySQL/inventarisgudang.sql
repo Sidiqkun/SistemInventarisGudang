@@ -40,7 +40,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`Id_Admin`, `Nama`, `No_Telepon`, `Email`, `Alamat`) VALUES
-('admin', 'contoh', 808, 'rifki@gmail.com', 'bengkulu');
+('admin', 'admin', 08080808, 'admin@gmail.com', 'surga');
 
 -- --------------------------------------------------------
 
